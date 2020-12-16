@@ -12,10 +12,10 @@
     "prepare": "npm run snyk-protect"
   },
   "dependencies": {
-    "firebase": "^7.22.0",
+    "firebase": "^8.0.1",
     "vue": "^2.5.17",
     "vuefire": "^1.4.5",
-    "snyk": "^1.393.0"
+    "snyk": "^1.425.4"
   },
   "devDependencies": {
     "autoprefixer": "^9.4.4",
