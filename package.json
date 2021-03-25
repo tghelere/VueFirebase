@@ -15,7 +15,7 @@
     "firebase": "^8.2.9",
     "vue": "^2.5.17",
     "vuefire": "^1.4.5",
-    "snyk": "^1.431.1"
+    "snyk": "^1.465.0"
   },
   "devDependencies": {
     "autoprefixer": "^9.4.4",
